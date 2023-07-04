@@ -5,7 +5,7 @@
 <!-- This is using base64 encoded image. If you have a small image, you can upload the base64 version of it :D https://www.base64-image.de/ -->
 
 
-![Sameer github stats](https://github-readme-stats.vercel.app/api?username=sameerfulzele&theme=radical&show_icons=true&count_private=true)
+<!-- ![Sameer github stats](https://github-readme-stats.vercel.app/api?username=sameerfulzele&theme=radical&show_icons=true&count_private=true) -->
 
 <!-- 
 ![Sameer Repos Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sameerfulzele&theme=solarized_dark)
